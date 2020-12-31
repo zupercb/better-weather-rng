@@ -4,7 +4,7 @@ NOTABLE CONTRIBUTORS:
 KOVACS: used the "Less Intense Weather" mod for the default weather settings.
 KAZIUS: for the mod idea
 
-OVERVIEW: A simple mod that replaces the current weather settings that was originally packaged by default, and added more weather entries to propel the RNG in favour of more pleasing game weather. Once unzipped in appropriate folder and the server cache is deleted and re-cached, it will create a new cache with the new weather entries as well.
+OVERVIEW: A simple mod that replaces the current weather settings that was originally packaged by default, and added more weather entries to propel the RNG in favour of more pleasing game weather. Once unzipped in appropriate folder, delete current server cache and re-cached (automatic when re-starting server), the new weather entries will be added as well.
 
 INSTALL
 unzip files towards \Server\db\weather
