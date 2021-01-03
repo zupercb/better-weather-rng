@@ -12,4 +12,4 @@ then delete & recache server
 
 NOTES
 tested on JET Server 1.0.0 to 1.0.3
-didn't thouroughly check this but the weather icon could be incorrectly representing in-game weather types on some instances.
+didn't thoroughly check this but the weather icon could be incorrectly representing in-game weather types on some instances.
